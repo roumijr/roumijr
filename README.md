@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
  **Mostly focused on system architecture/backend development** 
- >### learninig: golang | react | working with postgres
+ >### currently learning: golang | react | working with postgres
  >### docker | docker compose |
  >interested in product managment 
 ```golang
