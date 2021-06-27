@@ -25,8 +25,8 @@ package main
 
 import "fmt"
 
-func main(){
-fmt.println("hello there!")
+func main() {
+fmt.Println("hello there!")
 }
 ```
 
