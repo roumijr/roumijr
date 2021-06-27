@@ -30,4 +30,6 @@ fmt.println("hello there!")
 }
 ```
 
-- 📫 ***contacts***: [telegram](https://t.me/Mikhail_rou)  || [gmail](pulsemrboy@gmail.com)
+- 📫 ***contacts***: || [TELEGRAM](https://t.me/Mikhail_rou)  || [GMAIL](pulsemrboy@gmail.com) ||
+-                     ---------------------------------------------------------------------------
+ 
