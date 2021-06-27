@@ -18,6 +18,7 @@ Here are some ideas to get you started:
  **Mostly focused on system architecture/backend development** 
  >### currently learning: golang | react | working with postgres
  >### docker | docker compose |
+ > ### In free time learning frontend development
  >interested in product managment 
 ```golang
 package main
