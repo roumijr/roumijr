@@ -1,4 +1,4 @@
-### Hi there 👋
+ # Mikhail Roghutko(@ROUMIJR)👋
 
 <!--
 **roumijr/roumijr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ **Mostly focused on system architecture/backend development** 
+ >### learninig: golang | react | working with postgres
+ >### docker | docker compose |
+ >interesting in product managment 
+```golang
+package main
+
+import "fmt"
+
+func main(){
+fmt.println("hello there!")
+}
+```
+
+- 📫 ***contacts***: [telegram](https://t.me/Mikhail_rou)  || [gmail](pulsemrboy@gmail.com)
