@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- **Mostly focused on system architecture/backend development** 
+ **frontend/backend development** 
  >### currently learning: node js | react | working with postgres
  >### docker | docker compose | webpack
  > ### learning frontend development
